@@ -12,10 +12,14 @@
 
 ### Github activity:
 
-https://github-readme-stats.vercel.app/api?username=dmitriev-andrey
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey
-
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=dmitriev-andrey" target="_blank">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=dmitriev-andrey" />        
+  </a>&nbsp;&nbsp;
+  <a href="[www.linkedin.com/in/dmitriev-andrey-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey)" target="_blank">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey" />
+  </a>&nbsp;&nbsp;
+</p>
 <!--
 **Dmitriev-Andrey/dmitriev-andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
