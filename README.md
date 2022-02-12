@@ -10,6 +10,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
+### Github activity:
+
+https://github-readme-stats.vercel.app/api?username=dmitriev-andrey
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey
+
 <!--
 **Dmitriev-Andrey/dmitriev-andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
