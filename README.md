@@ -16,6 +16,12 @@ I'm a backend Java developer with 4 years of commercial experience. I worked in 
 * PostgreSQL, Oracle
 * Maven, Gradle 
 
+## Key strengths
+* Strong knowledge of algorithms
+* Fast immersion in the work of large systems
+* Supporting legacy systems
+
+
 ### Github activity:
 
 <p align='center'>
