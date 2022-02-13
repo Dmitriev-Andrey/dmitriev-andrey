@@ -1,5 +1,5 @@
 # Hi, I'm Andrey! 👋
-I'm a Java developer with 4 years of commercial experience. I worked in fintech([Sber](https://en.wikipedia.org/wiki/Sberbank)) and e-commerce([Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market)). Сreating and maintaining huge applications is my specialty.
+I'm a backend Java developer with 4 years of commercial experience. I worked in fintech([Sber](https://en.wikipedia.org/wiki/Sberbank)) and e-commerce([Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market)). Сreating and maintaining huge applications is my specialty.
 
 <p align='center'>
    <a href="https://t.me/Marbok" target="_blank">
@@ -26,6 +26,10 @@ I'm a Java developer with 4 years of commercial experience. I worked in fintech(
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey" />
   </a>&nbsp;&nbsp;
 </p>
+
+## Work achievements
+
+* [Sber](https://en.wikipedia.org/wiki/Sberbank). Participated in the development of the concept and implementation of the new architecture, which allowed to reduce labor costs for the creation of new products and functionality. As a result, this allowed us to expand the portfolio to 3 products in 3 channels per year without increasing the size of the team.
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/dmitriev-andrey/github-profile-views-counter">
