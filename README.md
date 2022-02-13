@@ -31,6 +31,8 @@ I'm a backend Java developer with 4 years of commercial experience. I worked in 
 
 * [Sber](https://en.wikipedia.org/wiki/Sberbank). Participated in the development of the concept and implementation of the new architecture, which allowed to reduce labor costs for the creation of new products and functionality. As a result, this allowed us to expand the portfolio to 3 products in 3 channels per year without increasing the size of the team.
 
+* [Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market) Successfully implemented sharding services for finding information from partner offers.
+
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/dmitriev-andrey/github-profile-views-counter">
        <img width="130px" src="https://komarev.com/ghpvc/?username=dmitriev-andrey&color=DE002D">
