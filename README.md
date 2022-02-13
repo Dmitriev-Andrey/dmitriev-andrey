@@ -22,7 +22,7 @@ I'm a backend Java developer with 4 years of commercial experience. I worked in 
 * Supporting legacy systems
 
 
-### Github activity:
+## Github activity:
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=dmitriev-andrey" target="_blank">
@@ -32,6 +32,22 @@ I'm a backend Java developer with 4 years of commercial experience. I worked in 
     <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey" />
   </a>&nbsp;&nbsp;
 </p>
+
+## :office: Work experience
+### [Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market), Software engineer, 2020.10 - present
+* Development of new services and functionality
+* Supporting, administration and troubleshooting of existing services.
+* Test automation
+* Development of documentation
+
+### [Sber](https://en.wikipedia.org/wiki/Sberbank), Middle/Senior software engineer, 2017.10 - 2020.10
+* Implementation of functional modules and services of the system
+* Development of documentation for system modules
+* Unit testing
+* Analysis and clarification of requirements for backlog tasks
+* Work with defects and incidents to eliminate technological problems
+* Customer consultations on the use of the developed software
+* Mentoring junior and middle developers
 
 ## Work achievements
 
