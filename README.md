@@ -33,21 +33,28 @@ I'm a backend Java developer with 5 years of commercial experience. I worked in 
   </a>&nbsp;&nbsp;
 </p>
 
-## :office: Work experience
-### [Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market), Software engineer, 2020.10 - present
-* Development of new services and functionality
-* Supporting, administration and troubleshooting of existing services.
-* Test automation
-* Development of documentation
+## :office: Work Experience
+### [Beam](https://www.ridebeam.com), Senior Software Engineer, September 2022 - Present
+* Developed services for vehicle control and monitoring
+* Integrated new screens into a mobile application
+* Created integration tests
+* Wrote RFCs for new features
+* Shared my knowledge with other engineers: wrote instructions, documentation, and organized presentations and pair programming sessions
 
-### [Sber](https://en.wikipedia.org/wiki/Sberbank), Middle/Senior software engineer, 2017.10 - 2020.10
-* Implementation of functional modules and services of the system
-* Development of documentation for system modules
-* Unit testing
-* Analysis and clarification of requirements for backlog tasks
-* Work with defects and incidents to eliminate technological problems
-* Customer consultations on the use of the developed software
-* Mentoring junior and middle developers
+### [Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market), Software Engineer, October 2020 - August 2022
+* Developed new services and functionality
+* Supported, administered, and troubleshooted existing services
+* Automated testing
+* Developed documentation
+
+### [Sber](https://en.wikipedia.org/wiki/Sberbank), Middle/Senior Software Engineer, October 2017 - October 2020
+* Implemented functional modules and services of the system
+* Developed documentation for system modules
+* Conducted unit testing
+* Analyzed and clarified requirements for backlog tasks
+* Worked on defect and incident resolution to eliminate technological problems
+* Provided customer consultations on the use of the developed software
+* Mentored junior and middle developers
 
 ## Work achievements
 
