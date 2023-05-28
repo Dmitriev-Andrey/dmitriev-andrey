@@ -21,18 +21,6 @@ I'm a backend Java developer with 5 years of commercial experience. I worked in 
 * Fast immersion in the work of large systems
 * Supporting legacy systems
 
-
-## Github activity:
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=dmitriev-andrey" target="_blank">
-    <img height=250 src="https://github-readme-stats.vercel.app/api?username=dmitriev-andrey" />        
-  </a>&nbsp;&nbsp;
-  <a href="[www.linkedin.com/in/dmitriev-andrey-dev](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey)" target="_blank">
-    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriev-andrey" />
-  </a>&nbsp;&nbsp;
-</p>
-
 ## :office: Work Experience
 ### [Beam](https://www.ridebeam.com), Senior Software Engineer, September 2022 - Present
 * Developed services for vehicle control and monitoring
