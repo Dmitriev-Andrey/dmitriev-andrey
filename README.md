@@ -29,7 +29,7 @@ I'm a backend Java developer with 5 years of commercial experience. I worked in 
 * Wrote RFCs for new features
 * Shared my knowledge with other engineers: wrote instructions, documentation, and organized presentations and pair programming sessions
 
-### [Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market), Software Engineer, October 2020 - August 2022
+### [Yandex.Market](https://en.wikipedia.org/wiki/Yandex.Market), Senior Software Engineer, October 2020 - August 2022
 * Developed new services and functionality
 * Supported, administered, and troubleshooted existing services
 * Automated testing
